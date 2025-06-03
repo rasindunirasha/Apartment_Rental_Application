@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OxygenProject
 
 ## Deployment Instructions
@@ -76,3 +77,7 @@ Project Licenced to OxygenProject. [Copyright Elegant Media](https://www.elegant
 ## Copyright
 
 Copyright (c) Elegant Media.
+=======
+# Apartment_Rental_Application
+Apartment Application
+>>>>>>> f59b6a7fb0bdf73c863596b7796c50a1a13dd60f
